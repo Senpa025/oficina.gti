@@ -1,2 +1,2 @@
-# oficina.gti
+# oficina-git
 aaaaaaaaaaaa
